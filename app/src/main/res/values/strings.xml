@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Neural Network</string>
+    <string-array name="data_operator">
+        <item>AND</item>
+        <item>OR</item>
+        <item>NAND</item>
+        <item>XOR</item>
+    </string-array>
+</resources>
